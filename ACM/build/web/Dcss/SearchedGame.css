@@ -1,0 +1,64 @@
+#middle
+{
+
+	background-color:rgb(27,37,49);
+    
+        width: 100%;
+       margin-left: 250px;
+       position: absolute;
+       z-index: -1;
+       margin-top: 100px;
+     
+       
+}
+#line
+{
+         width:1100px;
+      
+       height: 30px;
+       background-color: lightskyblue;
+       
+       
+}
+#GameInfo
+{
+    
+    width: 1000px;
+    height: 300px;
+     
+    
+}
+#GameImage
+{
+   margin-left: 150px;
+    width: 800px;
+    height: 400px;
+    
+}
+#GameDetail
+{
+     width: 1100px;
+    height: 300px;
+    
+}
+#GameVideo
+{
+     margin-left: 150px;
+   width: 800px;
+    height: 600px;
+        
+}
+#Info
+{
+   font-family: comic sans ms;
+   font-size: 17px;
+   color: white;
+}
+#Set
+{
+   font-family: comic sans ms;
+   
+   color: blueviolet; 
+   font-size: 150%;
+}
+

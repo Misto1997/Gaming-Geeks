@@ -1,0 +1,26 @@
+#Middle
+{
+   background-color:rgb(27,37,49);
+    
+        width: 100%;
+       margin-left: 250px;
+       position:absolute;
+       z-index: -1;
+       margin-top: 100px;
+      
+}
+#NewsLines
+{
+      width: 1150px;
+    height: 400px;
+    background-color: rgb(27,37,49);
+}
+#NewsDesc
+{
+    font-family: comic sans ms;
+    color: lightskyblue;
+    margin-left: 310px;
+    position: absolute;
+    margin-top: -135px;
+    width: 900px;
+}

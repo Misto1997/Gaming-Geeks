@@ -1,0 +1,35 @@
+#m6
+{
+     background-color: rgb(27,37,49);       
+        width: 100%;
+               margin-left: 250px;
+      position: fixed;
+        position: absolute;      
+       z-index: -1;
+       margin-top: 100px;
+}
+#matter
+{
+   background-color:rgb(35,44,61); 
+ 
+    width: 850px;
+    height: 2800px; 
+   border-radius: .5%;
+  margin-left: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+#text
+{
+    color:whitesmoke;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#headhr
+{
+    height:1px;
+    border:none;
+    background-color:blue;
+}
+

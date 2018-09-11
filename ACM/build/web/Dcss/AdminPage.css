@@ -1,0 +1,44 @@
+#m4
+{
+background-color: rgb(27,37,49); 
+        
+        width: 100%;
+               margin-left: 250px;
+      position: fixed;
+        position: absolute;      
+       z-index: -1;
+       margin-top: 100px;
+    
+       
+}
+#h1
+{
+    font-family: comic sans ms;
+    font-size: 25px;
+    color:white;
+    margin-left: 500px;
+    
+}
+#txt1
+{
+    width: 900px;
+    font-size: 14px;
+    height: 15px;
+     
+}
+#names
+{
+     
+    font-size: 20px;
+    color:white;
+    
+    
+}
+#s1{
+  background-color: DodgerBlue;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid grey;
+  font-size: 22px;
+   margin-top: 20px;
+}

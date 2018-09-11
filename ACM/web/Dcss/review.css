@@ -1,0 +1,73 @@
+#m8
+{
+    background-color: rgb(27,37,49); 
+        
+        width: 100%;
+               margin-left: 250px;
+      position: fixed;
+        position: absolute;      
+       z-index: -1;
+       margin-top: 100px;
+}
+#selector
+{
+      width: 1100px;
+    height: 100px;
+    background-color: rgb(27,37,49); 
+}
+#gameselect
+{
+    float: right;
+    
+}
+#btn
+{
+    float: right;
+    margin-right: 30px;
+}
+#btndesign
+{
+   width: 100px;
+   font-size: 14px;
+   
+  border-radius: 4px;
+}
+#slct
+{
+     width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-size: 17px;
+    font-family: comic sans ms;
+}
+#blw
+{
+   width: 1100px;
+    height: 2000px;
+   background-color: rgb(27,37,49); 
+}
+#r1
+{
+   background-color: rgb(27,37,49); 
+    width: 520px;
+    height: 350px; 
+    float: left;
+  margin-left: 20px;
+  position: relative; 
+}
+#ImgStl
+{
+    width: 500px;
+    height: 300px;
+    border: solid #ffffff;
+}
+#ImgStl:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.05); 
+}
